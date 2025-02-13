@@ -1,7 +1,21 @@
-package Java;
+package Algorithm_Java;
 import java.util.*;
 
 public class Day1_숫자의합구하기 {
+	/*
+	 * N개의 숫자가 공백 없이 써있을 때, 숫자를 모두 합해 출력
+		 
+		입력
+		1번째 줄에 숫자의 개수 N(1<=N<=100), 2번째 줄에 숫자 N개가 공백 없이 주어진다
+		 
+		출력 예제
+
+		554321
+		15
+
+		1110987654321
+		46
+	 */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author dlvns
- *
- */
-module CodingTestStudy {
-}
