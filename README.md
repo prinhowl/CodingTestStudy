@@ -1,1 +1,1 @@
-# CodingTestStudy
+# Java Coding Test Study
